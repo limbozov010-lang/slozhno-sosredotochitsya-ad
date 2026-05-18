@@ -1,1 +1,2 @@
-# https://github.com/limbozov010-lang/Q.git
+
+https://github.com/limbozov010-lang/slozhno-sosredotochitsya-ad
